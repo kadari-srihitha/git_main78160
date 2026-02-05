@@ -1,5 +1,7 @@
-def add():
-    print("hello")
+a=5
+b=6
+def add(a,b):
+    print(a+b)
 
 
-add()    
+add(a,b)    
